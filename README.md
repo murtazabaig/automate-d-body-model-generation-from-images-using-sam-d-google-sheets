@@ -1,3 +1,7 @@
+![n8n](https://img.shields.io/badge/n8n-workflow-0EA5E9)
+![license](https://img.shields.io/badge/license-MIT-green)
+![status](https://img.shields.io/badge/status-ready-brightgreen)
+
 # Automate 3D Body Model Generation from Images Using SAM-3D & Google Sheets
 
 Advanced n8n automation for Automate 3D Body Model Generation from Images Using SAM-3D & Google Sheets.
