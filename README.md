@@ -20,7 +20,6 @@ Effortlessly convert single images into 3D human body models with automated SAM-
 
 ## Included Files
 - `workflow.json`
-- `metadata.json`
 
 ## Setup
 1. Import `workflow.json` into n8n.
@@ -42,6 +41,15 @@ Effortlessly convert single images into 3D human body models with automated SAM-
 ## Author
 
 Murtaza Baig
+
+## Screenshots
+
+![Screenshot](assets/10433-generate-asmr-rainforest-videos-from-text-with-seedream---seedance-on-fal-ai.webp)
+![Screenshot](assets/5448-clone-voices-from-text-to-speech-with-zyphra-zonos-api.webp)
+![Screenshot](assets/golf-swing-result.png)
+![Screenshot](assets/golf-swing.jpg)
+![Screenshot](assets/n8nworfklows.webp)
+![Screenshot](assets/thumbnail.webp)
 
 ## License
 MIT License. See `LICENSE`.
